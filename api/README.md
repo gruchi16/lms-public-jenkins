@@ -1,1 +1,1 @@
-# Konamars LMS API
+#  LMS API
