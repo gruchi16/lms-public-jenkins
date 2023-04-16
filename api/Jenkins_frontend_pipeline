@@ -16,7 +16,7 @@ pipeline {
         
         stage('Building the docker image') {
             steps {
-                sh 'cd api && docker build -t gruchi/backend-lms .'
+                sh 'cd api && docker build -t gruchi/frontend-lms .'
             }
         }
         stage('Logging into dockerhub account') {
