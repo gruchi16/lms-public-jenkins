@@ -1,2 +1,1 @@
-# Digital Lync LMS for devops 
-#checking commit command
+# Digital Lync LMS 
